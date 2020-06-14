@@ -1,4 +1,4 @@
-## RadarTargetGeneration
+## Radar Target Generation
 
 ### Contents
 
